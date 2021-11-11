@@ -1,3 +1,4 @@
+#ifndef DLIST_H_
 #define DLIST_H_
 
 #include <string>
@@ -186,3 +187,5 @@ T DList<T>::deleteAt(int i){
 	delete p;
 	return val;
 }
+
+#endif
