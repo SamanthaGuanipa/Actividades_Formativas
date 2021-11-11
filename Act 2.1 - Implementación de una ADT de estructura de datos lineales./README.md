@@ -12,13 +12,13 @@ El algoritmo recorrerá la linked list y agregará un nuevo elemento al final de
 
 Se ingresa un valor, se recorrerá la lista hasta llegar a ese valor. Este proceso se realizará una sola vez. En caso de no estar el valor, se recorrerá la lista por completo, dependiendo del tamaño de la misma. La complejidad es de O(n)
 
-#update
+*update*
 
 **Analisis de complejidad temporal**
 
 Se ingresa un valor, se recorrerá la lista hasta llegar a la posicion de ese valor, se actualiza el valor. La complejidad es de O(n). 
 
-#deleteAt
+*deleteAt*
 
 **Analisis de complejidad temporal**
 Se ingresa un valor, se recorrerá la lista hasta llegar a la posicion de ese valor, se borra el elemento de esa posicion. La complejidad es de O(n). 
