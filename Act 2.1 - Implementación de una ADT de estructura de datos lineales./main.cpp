@@ -14,12 +14,10 @@ using namespace std;
 
 
 /* Agregar un metodo toString a su clase.h
-
 template <class T>
 std::string List<T>::toString() const {
 	std::stringstream aux;
 	Link<T> *p;
-
 	p = head;
 	aux << "[";
 	while (p != 0) {
