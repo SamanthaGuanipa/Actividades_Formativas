@@ -13,7 +13,6 @@
 using namespace std;
 
 /* Agregue en tu heap.h el metodo to string
-
 template <class T>
 std::string Heap<T>::toString() const {
 	std::stringstream aux;
