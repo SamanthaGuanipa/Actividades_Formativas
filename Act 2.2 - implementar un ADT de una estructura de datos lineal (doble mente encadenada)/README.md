@@ -24,9 +24,11 @@ El algoritmo recorre la lista hasta hallar el valor ingresado. Cuando el valor n
 *update*
 
 **Analisis de complejidad temporal**
+
 El algoritmo recorre la lista hasta hallar el valor ingresado. Al llegar a la posicion, se cambia el valor del elemento con el ingresado. Depende del tamaño de la lista, complejidad O(n).  
 
 *deleteAt*
 
 **Analisis de complejidad temporal**
+
 El algoritmo recorre la lista hasta hallar el valor ingresado y se elimina. Como depende del tamaño de la lista su complejidad es O(n). 
