@@ -1,12 +1,38 @@
 # TC1031_Estructuras_Formativas
 
-Repositorio de ejemplo
+
 
 # Correcciones en actividades
- ### Act 1.1 Funciones Iterativas, Recursivas y su análisis de Complejidad/
-* Se agregó analisis de complejidad para función recursiva en suma renglon 37 de funciones.h
+ ### Act 1.2 Act 1.2 - Algoritmos de Búsqueda y Ordenamiento/
  
-* Se agregaó función iterativa que antes no pasaba una de la pruebas, ya que se iniciaba el conteo del ciclo fuera de lugar. Ahora inicia en 0 y termina en n-1 y pasa las prubas del último main en linea 50 funciones.h
+* Se agregó analisis de complejidad para todas las funciones, ya que antes no las incluía. 
  
- ### Act 3.2 - Árbol Heap: Implementando una fila priorizada/
-* El programo tenía errores de compilación, se corrigió el error de compilación (caracteres no válidos y faltaban funciones por declarar) y el programa ya es compatible con el último main en el repositorio de prueba.
+ ### Act 2.1 - Implementación de una ADT de estructura de datos lineales/.
+ 
+* Se agregó el archivo list.h en el repositorio.
+
+ ### Act 2.2 - implementar un ADT de una estructura de datos lineal (doble mente encadenada)/
+ 
+* Se realizó la entrega de la actividad ya que previamente no se había realizado la entrega. 
+
+ ### Act 3.1 - Operaciones avanzadas en un BST/ 
+ 
+* Se realizó la entrega de la actividad ya que previamente no se había realizado la entrega. 
+ 
+ ### Act 3.2 - Árbol Heap Implementando una fila priorizada/
+ 
+* Se realizó la entrega de la actividad ya que previamente no se había realizado la entrega. 
+  
+ ### Act 3.3 - Árbol Desplegado Implementando un Splay Tree/
+ 
+* Se realizó la entrega de la actividad ya que previamente no se había realizado la entrega.  
+ 
+ ### Act 4.1 - Grafos, sus representaciones y sus recorridos/
+ 
+* Se agregó analisis de complejidad para todas las funciones, ya que antes no las incluía. 
+
+
+
+
+ 
+ 
