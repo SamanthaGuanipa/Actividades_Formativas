@@ -2,7 +2,7 @@
 
 **Análisis de complejidad temporal**
 
-El algoritmo lee un archivo, su tiempo de lectura dependerá de la cantidad de líneas existentes en el archivo. Su complejidad temporal es de O(n) para el peor de los casos.  
+El algoritmo leerá un archivo, su tiempo de lectura dependerá de la cantidad de líneas existentes en el archivo. Su complejidad temporal es de O(n) para el peor de los casos.  
 
 *DFS*
 
