@@ -22,7 +22,7 @@
  
  ### Act 3.2 - Árbol Heap Implementando una fila priorizada/
  
-* Se agregaron las funciones push(), pop(), top(), y empty().
+* Se agregaron las funciones push(), pop(), top(), size() y empty().
 * Se agregó analisis de complejidad para todas las funciones, ya que antes no las incluía. 
   
  ### Act 3.3 - Árbol Desplegado Implementando un Splay Tree/
