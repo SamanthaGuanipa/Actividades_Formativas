@@ -14,16 +14,16 @@ Al usar la función heapify(), la complejidad puede ser O(logn). En el peor de l
 
 **Analisis de complejidad temporal**
 
-El numero de pasos siempre es el mismo ya que solo devuelve un valor, la complejidad es O(1)
+El numero de pasos siempre es el mismo ya que solo devuelve un valor, la complejidad es O(1) para todos los casos.
 
 *empty*
 
 **Analisis de complejidad temporal**
 
-Realiza la revision de una variable, la complejidad es O(1). 
+Realiza la revision de una variable, la complejidad es O(1) para todos los casos. 
 
 *size*
 
 **Analisis de complejidad temporal**
 
-Devuelve el tamaño del arreglo, por lo tanto la complejidad es O(1). 
+Devuelve el tamaño del arreglo, por lo tanto la complejidad es O(1) para todos los casos. 
