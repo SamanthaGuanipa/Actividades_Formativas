@@ -29,7 +29,6 @@ class Node {
 		void preorder(std::stringstream&) const;
 		void inorder(std::stringstream&) const;
 		void postorder(std::stringstream&) const;
-		void showlevel(std::stringstream&, int) const;
 		void levelbylevel(std::stringstream&) const;
 
 		friend class BST<T>;
